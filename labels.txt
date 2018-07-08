@@ -1,0 +1,5 @@
+aeroplane
+bicycle
+bird
+boat
+fidget_spinner

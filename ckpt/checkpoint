@@ -1,0 +1,2 @@
+model_checkpoint_path: "yolo-50"
+all_model_checkpoint_paths: "yolo-50"
