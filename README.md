@@ -1,3 +1,15 @@
+I Perfom all the activities of object detection using darkflow  on UBNUTU 16.04. I Face Many PROBLEM and lot of codes have to changes to perform another tasks which i never used before and face before.
+
+
+
+
+
+
+
+
+
+
+
 ## Intro
 
 [![Build Status](https://travis-ci.org/thtrieu/darkflow.svg?branch=master)](https://travis-ci.org/thtrieu/darkflow) [![codecov](https://codecov.io/gh/thtrieu/darkflow/branch/master/graph/badge.svg)](https://codecov.io/gh/thtrieu/darkflow)
