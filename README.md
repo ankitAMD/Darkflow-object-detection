@@ -8,10 +8,15 @@ Basic reading and required  links :
 
 
 https://github.com/markjay4k/YOLO-series/blob/master/part1%20-%20setup%20YOLO.ipynb
+
 https://www.youtube.com/watch?v=T8wK5loXkXg
+
 https://www.youtube.com/watch?v=RplXYjxgZbw
+
 https://www.lfd.uci.edu/~gohlke/pythonlibs/
+
 https://github.com/thtrieu/darkflow
+
 https://pjreddie.com/darknet/yolo/
 
 
