@@ -20,6 +20,27 @@ https://github.com/thtrieu/darkflow
 https://pjreddie.com/darknet/yolo/
 
 
+Some Important Commands ::::::::
+
+For ububtu users video cutting command---- 
+I found ffmpeg could do the task. To install the ffmpeg sudo apt-get install ffmpeg To copy a specific short duration from the video file.
+
+ffmpeg -i original.mp4 -ss 00:01:52 -c copy -t 00:00:10 output.mp4
+
+    -i:input file. The file name of the original video clip.
+    -ss:start timestamp. In my case I tried to copy the new video from the original video started after 1 minute and 52 seconds.
+
+    -t:indicating the duration of the new video clip, in my case, 10 seconds.
+https://askubuntu.com/questions/840982/what-tools-could-i-use-on-ubuntu-16-04-to-cut-mp4-files-into-several-clips/841074
+
+video downloading free from youtube online -------------
+
+http://www.youtube-video-downloader.xyz/
+
+
+
+
+
 
 
 what is YOLO v2 (aka YOLO 9000)
