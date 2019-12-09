@@ -1,3 +1,10 @@
+INstslling opencv link ::::
+http://www.codebind.com/cpp-tutorial/install-opencv-ubuntu-cpp/
+
+https://medium.com/analytics-vidhya/installation-of-opencv-in-simple-and-easy-way-15556edca7a4
+
+https://medium.com/analytics-vidhya/what-and-why-opencv-3b807ade73a0
+
 Pytorch websites:
 https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_matrices/
 
