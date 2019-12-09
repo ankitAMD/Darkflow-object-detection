@@ -1,4 +1,4 @@
-INstslling opencv link ::::
+Installing opencv link ::::
 http://www.codebind.com/cpp-tutorial/install-opencv-ubuntu-cpp/
 
 https://medium.com/analytics-vidhya/installation-of-opencv-in-simple-and-easy-way-15556edca7a4
