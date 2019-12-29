@@ -1,4 +1,5 @@
-"        
+"        Some bsic sites to start to learn ML
+           
             http://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/
             
             https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb
