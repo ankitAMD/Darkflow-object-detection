@@ -77,15 +77,18 @@ YOLO9000 is a high speed, real time detection algorithm that can detect on OVER 
 
 Step1 - Requirements
     guidance for installing Anaconda on linux (https://docs.anaconda.com/anaconda/install/linux/)
+    i use on base terminal (on this step i am not created any environment)
+              python version 2.7.12
+              anaconda (https://repo.continuum.io/archive/Anaconda2-4.2.0-Linux-x86_64.sh)
+              conda version 4.2.9 (conda --version type on terminal ....no need to install conda separately install above anaconda through link so this conda verion comes with it. )
+              
+    
     Python 3.5 or 3.6. Anaconda (install tutorial https://www.youtube.com/watch?v=T8wK5loXkXg)
     Tensorflow (tutorial GPU verions https://www.youtube.com/watch?v=RplXYjxgZbw&t=91s)
     openCV (https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 
 
-i use on base terminal (on this step i am not created any environment)
-              python version 2.7.12
-              anaconda (https://repo.continuum.io/archive/Anaconda2-4.2.0-Linux-x86_64.sh)
-              conda version 4.2.9 (conda --version type on terminal ....no need to install conda separately install above anaconda through link so this conda verion comes with it. )
+
               
 Step2 - Download the Darkflow repo
 
