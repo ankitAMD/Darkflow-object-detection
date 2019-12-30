@@ -106,6 +106,9 @@ Step1 - Requirements
               
               opencv version 4.1.1/4.1.2 (pip install opencv-python)
               
+              matplotlib(conda install matplotlib)
+
+              lxml (conda install lxml)
               
     
     Python 3.5 or 3.6. Anaconda (install tutorial https://www.youtube.com/watch?v=T8wK5loXkXg)
