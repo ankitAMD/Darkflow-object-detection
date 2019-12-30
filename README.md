@@ -22,7 +22,7 @@ https://medium.com/analytics-vidhya/what-and-why-opencv-3b807ade73a0
 Pytorch websites:
 https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_matrices/
 
-I Perfom all the activities of object detection using darkflow  on UBNUTU 16.04. I Face Many PROBLEM and lot of codes have to changes to perform another tasks which i never used before and face before.
+I Perfom all the activities of object detection using darkflow  on UBNUTU 16.04. I Face Many Problem and lot of codes have to changes to perform another tasks which i never used before and face before.
 See my demo video it is not Accurate detection but i used only for to know how to perform object detection on video i doesn,t uses much classes and i train my model on some of dataset through which i do not get good performence but i got result .
 this is one of the object detection video https://www.youtube.com/watch?v=-2CkuAU6pRM
 
@@ -46,7 +46,7 @@ https://pjreddie.com/darknet/yolo/
 
 ##Some Important Commands ::::::::
 
-For ububtu users video cutting command---- 
+For ubuntu users video cutting command---- 
 I found ffmpeg could do the task. To install the ffmpeg sudo apt-get install ffmpeg To copy a specific short duration from the video file.
 
      ffmpeg -i original.mp4 -ss 00:01:52 -c copy -t 00:00:10 output.mp4
@@ -76,15 +76,42 @@ YOLO9000 is a high speed, real time detection algorithm that can detect on OVER 
     and another talk here (https://www.youtube.com/watch?v=4eIBisqx9_g)
 
 Step1 - Requirements
-    guidance for installing Anaconda on linux (https://docs.anaconda.com/anaconda/install/linux/)
-    i use on base terminal (on this step i am not created any environment)
-              python version 2.7.12
-              anaconda (https://repo.continuum.io/archive/Anaconda2-4.2.0-Linux-x86_64.sh)
+    
+    Guidance for installing Anaconda on ubuntu linux (https://docs.anaconda.com/anaconda/install/linux/) this is only i used for reading and following command and installing below Anaconda version(2 line number).
+    
+    first i install on base terminal (on this step not created any environment)
+    
+              1.python version 2.7.12(which is already installed with system, check it first)
+              
+              2.anaconda (https://repo.continuum.io/archive/Anaconda2-4.2.0-Linux-x86_64.sh)(Download conda from this link) 
+              
               conda version 4.2.9 (conda --version type on terminal ....no need to install conda separately install above anaconda through link so this conda verion comes with it. )
               
     
+    properly install everything on base then i created "abc" environment  following these commands in link ....
+      
+              (https://github.com/ankitAMD/1Ant_Bees_classification_Pytorch) .
+              
+              After created abc environment i go into the environemnt "abc".......
+
+               "source activate abc"
+              
+              in this environment python version is 3.6, check it.
+ 
+              tensorflow version 1.14.0 (pip install tensorflow==1.14)
+              
+              cython version (conda install cython==0.26)
+              
+              numpy version 1.17.4/1.18 check it  (pip install numpy==1.17.4)
+              
+              opencv version 4.1.1/4.1.2 (pip install opencv-python)
+              
+              
+    
     Python 3.5 or 3.6. Anaconda (install tutorial https://www.youtube.com/watch?v=T8wK5loXkXg)
+    
     Tensorflow (tutorial GPU verions https://www.youtube.com/watch?v=RplXYjxgZbw&t=91s)
+    
     openCV (https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 
 
@@ -93,6 +120,7 @@ Step1 - Requirements
 Step2 - Download the Darkflow repo
 
     https://github.com/thtrieu/darkflow
+    
     extract the files somewhere locally
 
 Step3 - Build the library
