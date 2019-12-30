@@ -108,7 +108,7 @@ Step1 - Requirements
               
               matplotlib(conda install matplotlib)
 
-              lxml (conda install lxml)
+              lxml (pip install lxml)
               
     
     Python 3.5 or 3.6. Anaconda (install tutorial https://www.youtube.com/watch?v=T8wK5loXkXg)
