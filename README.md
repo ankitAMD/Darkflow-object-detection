@@ -445,44 +445,50 @@ That's all.
 
 # must read these issues 
 
+https://github.com/thtrieu/darkflow/issues/1012 (Can't make a prediction)
+
 https://github.com/thtrieu/darkflow/issues/613
 
-https://github.com/thtrieu/darkflow/issues/638
+https://github.com/thtrieu/darkflow/issues/638 (Change Bounding Box thickness )
 
 https://github.com/bendidi/Tracking-with-darkflow
 
-https://github.com/thtrieu/darkflow/issues/717
+https://github.com/thtrieu/darkflow/issues/717 (Please add the tensorboard for visualising the loss)
 
-https://github.com/thtrieu/darkflow/issues/723
+https://github.com/thtrieu/darkflow/issues/723  (while training - loss parameter almost doesnt decrease)
 
-https://github.com/thtrieu/darkflow/issues/918
+https://github.com/thtrieu/darkflow/issues/918 (retrieve loss function values from checkpoints )
 
-https://github.com/thtrieu/darkflow/issues/526
+https://github.com/thtrieu/darkflow/issues/526  (https://github.com/thtrieu/darkflow/issues/526)
 
 https://github.com/thtrieu/darkflow/issues/1012
 
 https://github.com/thtrieu/darkflow/issues/611
 
-https://github.com/thtrieu/darkflow/issues/603
+https://github.com/thtrieu/darkflow/issues/603 (Show training results in tensorboard )
 
-https://github.com/thtrieu/darkflow/issues/603
+https://github.com/thtrieu/darkflow/issues/566 ()
 
-https://github.com/thtrieu/darkflow/issues/566
+https://github.com/thtrieu/darkflow/issues/283 (how to set confidence threshold)
 
-https://github.com/thtrieu/darkflow/issues/283
+https://github.com/thtrieu/darkflow/issues/222 ()
 
-https://github.com/thtrieu/darkflow/issues/222
+https://github.com/thtrieu/darkflow/issues/286 ()
 
-https://github.com/thtrieu/darkflow/issues/286
+https://github.com/thtrieu/darkflow/issues/222 (Can't set threshold?)
 
-https://github.com/thtrieu/darkflow/issues/222
+https://github.com/thtrieu/darkflow/issues/190 (--threshold option does not do anything)
 
-https://github.com/thtrieu/darkflow/issues/190
+https://github.com/thtrieu/darkflow/issues/94  (How could I add tensorboad visualization?)
 
-https://github.com/thtrieu/darkflow/issues/94
+https://github.com/thtrieu/darkflow/issues/92  (Segmentation fault (core dumped) while running the tiny yolo command as in the README #92)
 
-https://github.com/thtrieu/darkflow/issues/92
+https://github.com/thtrieu/darkflow/issues/93  (detection threshold not used !!)
 
-https://github.com/thtrieu/darkflow/issues/93
+https://github.com/thtrieu/darkflow/issues/29 (How to fine-tune?)
 
-https://github.com/thtrieu/darkflow/issues/29
+https://github.com/thtrieu/darkflow/issues/9  (what is the lowest loss value can reach?)
+
+https://github.com/thtrieu/darkflow/issues/7   (Random scale/translate send object(s) out of bound)
+
+
