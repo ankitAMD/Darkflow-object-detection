@@ -459,7 +459,7 @@ https://github.com/thtrieu/darkflow/issues/723  (while training - loss parameter
 
 https://github.com/thtrieu/darkflow/issues/918 (retrieve loss function values from checkpoints )
 
-https://github.com/thtrieu/darkflow/issues/526  (https://github.com/thtrieu/darkflow/issues/526)
+https://github.com/thtrieu/darkflow/issues/526  (bigger bbox sizes)
 
 https://github.com/thtrieu/darkflow/issues/1012 (Can't make a prediction)
 
