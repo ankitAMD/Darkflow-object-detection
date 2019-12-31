@@ -447,3 +447,16 @@ That's all.
 
 https://github.com/thtrieu/darkflow/issues/613
 
+https://github.com/thtrieu/darkflow/issues/638
+
+https://github.com/bendidi/Tracking-with-darkflow
+
+https://github.com/thtrieu/darkflow/issues/717
+
+https://github.com/thtrieu/darkflow/issues/723
+
+https://github.com/thtrieu/darkflow/issues/918
+
+https://github.com/thtrieu/darkflow/issues/526
+
+https://github.com/thtrieu/darkflow/issues/1012
