@@ -447,11 +447,11 @@ That's all.
 
 https://github.com/thtrieu/darkflow/issues/1012 (Can't make a prediction)
 
-https://github.com/thtrieu/darkflow/issues/613
+https://github.com/thtrieu/darkflow/issues/613 (How do I evaluate accuracy of the test set)
 
 https://github.com/thtrieu/darkflow/issues/638 (Change Bounding Box thickness )
 
-https://github.com/bendidi/Tracking-with-darkflow
+https://github.com/bendidi/Tracking-with-darkflow (Tracking-with-darkflow)
 
 https://github.com/thtrieu/darkflow/issues/717 (Please add the tensorboard for visualising the loss)
 
@@ -461,19 +461,19 @@ https://github.com/thtrieu/darkflow/issues/918 (retrieve loss function values fr
 
 https://github.com/thtrieu/darkflow/issues/526  (https://github.com/thtrieu/darkflow/issues/526)
 
-https://github.com/thtrieu/darkflow/issues/1012
+https://github.com/thtrieu/darkflow/issues/1012 (Can't make a prediction)
 
-https://github.com/thtrieu/darkflow/issues/611
+https://github.com/thtrieu/darkflow/issues/611 (Image confidence show with bounding box in output images)
 
 https://github.com/thtrieu/darkflow/issues/603 (Show training results in tensorboard )
 
-https://github.com/thtrieu/darkflow/issues/566 ()
+https://github.com/thtrieu/darkflow/issues/566 (Change color of bounding box)
 
 https://github.com/thtrieu/darkflow/issues/283 (how to set confidence threshold)
 
-https://github.com/thtrieu/darkflow/issues/222 ()
+https://github.com/thtrieu/darkflow/issues/222 (Can't set threshold?)
 
-https://github.com/thtrieu/darkflow/issues/286 ()
+https://github.com/thtrieu/darkflow/issues/286 (Freezing Graph Issue)
 
 https://github.com/thtrieu/darkflow/issues/222 (Can't set threshold?)
 
