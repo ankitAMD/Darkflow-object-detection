@@ -469,3 +469,8 @@ https://github.com/thtrieu/darkflow/issues/603
 
 https://github.com/thtrieu/darkflow/issues/566
 
+https://github.com/thtrieu/darkflow/issues/283
+
+https://github.com/thtrieu/darkflow/issues/222
+
+https://github.com/thtrieu/darkflow/issues/286
