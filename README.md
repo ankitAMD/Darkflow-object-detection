@@ -1,6 +1,9 @@
+## What i Have done
 I Perfom all the activities of object detection using darkflow  on UBNUTU 16.04. I Face Many Problem and lot of codes have to changes to perform another tasks which i never used before and face before.
 See my demo video it is not Accurate detection but i used only for to know how to perform object detection on video i doesn,t uses much classes and i train my model on some of dataset through which i do not get good performence but i got result .
-this is one of the object detection video https://www.youtube.com/watch?v=-2CkuAU6pRM
+this is one of the object detection video
+
+https://www.youtube.com/watch?v=-2CkuAU6pRM
 
 https://www.youtube.com/watch?v=pY_ofBTTuBE.
 
