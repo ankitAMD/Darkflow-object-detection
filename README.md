@@ -103,9 +103,9 @@ Step1 - Requirements
 
 3. http://www.codebind.com/cpp-tutorial/install-opencv-ubuntu-cpp/
 
-#### Pytorch websites........................
+#### Practice Pytorch from this website........................
 
-https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_matrices/
+1. https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_matrices/
 
               
 Step2 - Download the Darkflow repo
