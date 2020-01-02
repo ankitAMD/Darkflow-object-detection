@@ -29,9 +29,11 @@ I found ffmpeg could do the task. To install the ffmpeg sudo apt-get install ffm
 
   -i:input file. The file name of the original video clip.
   -ss:start timestamp. In my case I tried to copy the new video from the original video started after 1 minute and 52 seconds.
-
-    -t:indicating the duration of the new video clip, in my case, 10 seconds.
-https://askubuntu.com/questions/840982/what-tools-could-i-use-on-ubuntu-16-04-to-cut-mp4-files-into-several-clips/841074
+  -t:indicating the duration of the new video clip, in my case, 10 seconds. 
+  
+   ##### Go to the link for more details
+   
+            https://askubuntu.com/questions/840982/what-tools-could-i-use-on-ubuntu-16-04-to-cut-mp4-files-into-several-clips/841074
 
 video downloading free from youtube online -------------
 
