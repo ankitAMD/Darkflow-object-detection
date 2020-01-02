@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=pY_ofBTTuBE.
  6. https://pjreddie.com/darknet/yolo/
 
 
-##Some Important Commands ::::::::
+### Some Important Commands (used at Testing time).......
 
 For ubuntu users video cutting command---- 
 I found ffmpeg could do the task. To install the ffmpeg sudo apt-get install ffmpeg To copy a specific short duration from the video file.
