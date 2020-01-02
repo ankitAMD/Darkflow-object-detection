@@ -4,20 +4,19 @@ this is one of the object detection video https://www.youtube.com/watch?v=-2CkuA
 
 https://www.youtube.com/watch?v=pY_ofBTTuBE.
 
-Basic reading and required  links :
+### Basic Reading and Required  links :
 
+ 1. https://github.com/markjay4k/YOLO-series/blob/master/part1%20-%20setup%20YOLO.ipynb
 
-https://github.com/markjay4k/YOLO-series/blob/master/part1%20-%20setup%20YOLO.ipynb
+ 2. https://www.youtube.com/watch?v=T8wK5loXkXg
 
-https://www.youtube.com/watch?v=T8wK5loXkXg
+ 3. https://www.youtube.com/watch?v=RplXYjxgZbw
 
-https://www.youtube.com/watch?v=RplXYjxgZbw
+ 4. https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
-https://www.lfd.uci.edu/~gohlke/pythonlibs/
+ 5. https://github.com/thtrieu/darkflow
 
-https://github.com/thtrieu/darkflow
-
-https://pjreddie.com/darknet/yolo/
+ 6. https://pjreddie.com/darknet/yolo/
 
 
 ##Some Important Commands ::::::::
