@@ -1,4 +1,4 @@
-## What i Have done
+## What i Have done 
 I Perfom all the activities of object detection using darkflow  on UBNUTU 16.04. I Face Many Problem and lot of codes have to changes to perform another tasks which i never used before and face before.
 See my demo video it is not Accurate detection but i used only for to know how to perform object detection on video i doesn,t uses much classes and i train my model on some of dataset through which i do not get good performence but i got result .
 this is one of the object detection video
@@ -435,6 +435,7 @@ If you'd like to load a `.pb` and `.meta` file when using `return_predict()` you
 
 That's all.
 # yolo--darkflow
+# credited to https://github.com/thtrieu/darkflow
 
 # Read these issues for better Understanding.................
 
