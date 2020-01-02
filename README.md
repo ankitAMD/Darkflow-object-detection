@@ -1,13 +1,3 @@
-Installing opencv link ::::
-http://www.codebind.com/cpp-tutorial/install-opencv-ubuntu-cpp/
-
-https://medium.com/analytics-vidhya/installation-of-opencv-in-simple-and-easy-way-15556edca7a4
-
-https://medium.com/analytics-vidhya/what-and-why-opencv-3b807ade73a0
-
-Pytorch websites:
-https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_matrices/
-
 I Perfom all the activities of object detection using darkflow  on UBNUTU 16.04. I Face Many Problem and lot of codes have to changes to perform another tasks which i never used before and face before.
 See my demo video it is not Accurate detection but i used only for to know how to perform object detection on video i doesn,t uses much classes and i train my model on some of dataset through which i do not get good performence but i got result .
 this is one of the object detection video https://www.youtube.com/watch?v=-2CkuAU6pRM
@@ -104,6 +94,18 @@ Step1 - Requirements
     openCV (https://www.lfd.uci.edu/~gohlke/pythonlibs/)
 
 
+
+# Some other way for Installing opencv link ...........................
+
+https://medium.com/analytics-vidhya/installation-of-opencv-in-simple-and-easy-way-15556edca7a4
+
+https://medium.com/analytics-vidhya/what-and-why-opencv-3b807ade73a0
+
+http://www.codebind.com/cpp-tutorial/install-opencv-ubuntu-cpp/
+
+# Pytorch websites........................
+
+https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_matrices/
 
               
 Step2 - Download the Darkflow repo
