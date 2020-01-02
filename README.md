@@ -97,7 +97,7 @@ YOLO9000 is a high speed, real time detection algorithm that can detect on OVER 
 
 
 
-#### Some other way for Installing opencv link ........
+   #### Some other way for Installing opencv link ........
 
 1. https://medium.com/analytics-vidhya/installation-of-opencv-in-simple-and-easy-way-15556edca7a4
 
