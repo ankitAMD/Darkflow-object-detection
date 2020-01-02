@@ -1,17 +1,3 @@
-"        Some bsic sites to start to learn ML
-           
-            http://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/
-            
-            https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb
-            
-            https://pandas.pydata.org/pandas-docs/version/0.17.0/10min.html#minutes-to-pandas
-            
-            https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Data%20Science/VIP%20Cheat%20Sheet%20(ML%20%2C%20DL%20%2C%20AI).pdf
-            
-            https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf
-            
-            https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng?trk
-"
 Installing opencv link ::::
 http://www.codebind.com/cpp-tutorial/install-opencv-ubuntu-cpp/
 
@@ -491,4 +477,20 @@ https://github.com/thtrieu/darkflow/issues/9  (what is the lowest loss value can
 
 https://github.com/thtrieu/darkflow/issues/7   (Random scale/translate send object(s) out of bound)
 
+
+
+# Some bsic sites to start to learn ML
+           
+            http://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/
+            
+            https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.ipynb
+            
+            https://pandas.pydata.org/pandas-docs/version/0.17.0/10min.html#minutes-to-pandas
+            
+            https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Data%20Science/VIP%20Cheat%20Sheet%20(ML%20%2C%20DL%20%2C%20AI).pdf
+            
+            https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2018/09/Ng-MLY01-13.pdf
+            
+            https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng?trk
+"
 
