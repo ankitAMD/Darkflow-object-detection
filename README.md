@@ -443,7 +443,7 @@ If you'd like to load a `.pb` and `.meta` file when using `return_predict()` you
 That's all.
 # yolo--darkflow
 
-# must read these issues 
+# Read these issues for better Understanding.....................................................................
 
 https://github.com/thtrieu/darkflow/issues/1012 (Can't make a prediction)
 
