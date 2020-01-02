@@ -479,7 +479,7 @@ https://github.com/thtrieu/darkflow/issues/7   (Random scale/translate send obje
 
 
 
-# Some bsic sites to start to learn ML
+# Some Basic Websites to start to learn ML ..............
            
             http://jakevdp.github.io/blog/2016/08/25/conda-myths-and-misconceptions/
             
