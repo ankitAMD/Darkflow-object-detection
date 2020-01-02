@@ -35,17 +35,17 @@ I found ffmpeg could do the task. To install the ffmpeg sudo apt-get install ffm
    
             https://askubuntu.com/questions/840982/what-tools-could-i-use-on-ubuntu-16-04-to-cut-mp4-files-into-several-clips/841074
 
-video downloading free from youtube online -------------
+   ##### Video downloading free from youtube online for testing
 
-     http://www.youtube-video-downloader.xyz/
-
-
+             http://www.youtube-video-downloader.xyz/
 
 
 
 
 
-what is YOLO v2 (aka YOLO 9000)
+
+
+# what is YOLO v2 (aka YOLO 9000)
 
 YOLO9000 is a high speed, real time detection algorithm that can detect on OVER 9000! (object categories)
 
@@ -53,7 +53,7 @@ YOLO9000 is a high speed, real time detection algorithm that can detect on OVER 
     watch a talk on it here (https://www.youtube.com/watch?v=NM6lrxy0bxs)
     and another talk here (https://www.youtube.com/watch?v=4eIBisqx9_g)
 
-Step1 - Requirements
+## Step1 - Requirements
     
     Guidance for installing Anaconda on ubuntu linux (https://docs.anaconda.com/anaconda/install/linux/) this is only i used for reading and following command and installing below Anaconda version(2 line number).
     
@@ -110,13 +110,13 @@ Step1 - Requirements
 1. https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_matrices/
 
               
-Step2 - Download the Darkflow repo
+## Step2 - Download the Darkflow repo
 
     https://github.com/thtrieu/darkflow
     
     extract the files somewhere locally
 
-Step3 - Build the library
+## Step3 - Build the library
 
     open an cmd window and type
 
@@ -126,7 +126,7 @@ OR
 
 pip install -e .
 
-Step 4 - Download a weights file
+## Step 4 - Download a weights file
 
     Download the YOLOv2 608x608 weights file here (https://pjreddie.com/darknet/yolov2/)
     NOTE: there are other weights files you can try if you like
