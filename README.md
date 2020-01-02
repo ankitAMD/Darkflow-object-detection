@@ -95,15 +95,15 @@ Step1 - Requirements
 
 
 
-# Some other way for Installing opencv link ...........................
+#### Some other way for Installing opencv link ........
 
-https://medium.com/analytics-vidhya/installation-of-opencv-in-simple-and-easy-way-15556edca7a4
+1. https://medium.com/analytics-vidhya/installation-of-opencv-in-simple-and-easy-way-15556edca7a4
 
-https://medium.com/analytics-vidhya/what-and-why-opencv-3b807ade73a0
+2. https://medium.com/analytics-vidhya/what-and-why-opencv-3b807ade73a0
 
-http://www.codebind.com/cpp-tutorial/install-opencv-ubuntu-cpp/
+3. http://www.codebind.com/cpp-tutorial/install-opencv-ubuntu-cpp/
 
-# Pytorch websites........................
+#### Pytorch websites........................
 
 https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_matrices/
 
