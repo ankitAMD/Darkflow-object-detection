@@ -1,8 +1,9 @@
-## What i Have done and Experience...
+## What i Have done and Experience.......
 I Perfom all the activities like image ,video,webcam detection in object detection using darkflow on UBNUTU 16.04. I Face Many Problem and changed lot of codes to perform another tasks which i never used and face before.
 
 See my Demo video probably it is not Accurate detection because of not GPU and its corresponding compatible hardware but i used CPU, 8GB RAM, intel i7/i5 processor and 1TB hard disk only and perform custom object detection .
-i train my model on 1/4 classes differently and uses 25 images of dataset through which i do not get very good performance but i got result to show my demo to public.
+I train my model on 1/4 classes differently and uses 25 images of dataset through which i do not get very good performance but i got result to show my demo to public. I done and implement this project myself without anyhelp except solving some issues from Google,stackoverflow, Medium.  
+If you like this details of this project click on star.
 
 ##### This is Demo of the object detection video
 
