@@ -1,15 +1,17 @@
 ## What i Have done and Experience.......
-I Perfom all the activities like image ,video,webcam detection in object detection using darkflow on UBNUTU 16.04. I Face Many Problem and changed lot of codes to perform another tasks which i never used and face before.
+I Perfom all the activities like Image ,Video,Webcam detection in Object-Detection using Darkflow on UBNUTU 16.04. I Face Many Problem and changed lot of codes to perform another tasks which i never used and face before.
 
-See my Demo video probably it is not Accurate detection because of not GPU and its corresponding compatible hardware but i used CPU, 8GB RAM, intel i7/i5 processor and 1TB hard disk only and perform custom object detection .
-I train my model on 1/4 classes differently and uses 25 images of dataset through which i do not get very good performance but i got result to show my demo to public. I done and implement this project myself without anyhelp except solving some issues from Google,stackoverflow, Medium.  
-If you like this details of this project click on star.
+See my Demo video probably it is not Accurate detection because of not GPU and its corresponding compatible hardware but i used CPU, 8GB-RAM, Intel i7/i5 processor and 1TB Hard-Disk only and perform Custom Object-Detection.
 
-##### This is Demo of the object detection video
+I train my model on 1/4 classes differently and uses 25 Images of dataset through which i do not get very good performance but i got result to show my demo to Public. I done and implement this project myself without anyhelp except solving some issues from Google, Stackoverflow, Medium.  
+If you like this details of this project, please click on star.
+
+##### This Video is Demo of the Object-Detection.
 
 https://www.youtube.com/watch?v=-2CkuAU6pRM
 
-https://www.youtube.com/watch?v=pY_ofBTTuBE.
+https://www.youtube.com/watch?v=pY_ofBTTuBE
+
 
 ### Basic Reading and Required  links :
 
@@ -45,9 +47,6 @@ I found ffmpeg could do the task. To install the ffmpeg sudo apt-get install ffm
    ##### Video downloading free from youtube online for testing
 
              http://www.youtube-video-downloader.xyz/
-
-
-
 
 
 
@@ -153,9 +152,6 @@ videofile.mp4 is the name of your video.
 NOTE: if you do not have the GPU version of tensorflow, leave off the --gpu 1.0
 
 --saveVideo indicates to save a name video file, which has the boxes around objects
-
-
-
 
 
 
