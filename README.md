@@ -4,6 +4,9 @@ I Perfom all the activities like Image ,Video,Webcam detection in Object-Detecti
 See my Demo video probably it is not Accurate detection because of not GPU and its corresponding compatible hardware but i used CPU, 8GB-RAM, Intel i7/i5 processor and 1TB Hard-Disk only and perform Custom Object-Detection.
 
 I train my model on 1and 4 classes differently and uses 25 Images of dataset through which i do not get very good performance but i got result to show my demo to Public. I done and implement this project myself without anyhelp except solving some issues from Google, Stackoverflow, Medium.  
+
+Edited: I have also train on tiny-yolo.cfg and tiny-yolo.weights file on detecting good/bad Solar_panel.But Performance is not Good and threshold is very bad.But it give some results.
+
 If you like this details of this project, please click on star.
 
 ##### This Video is Demo of the Object-Detection.
