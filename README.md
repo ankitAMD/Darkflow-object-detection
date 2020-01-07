@@ -12,6 +12,8 @@ https://github.com/ankitAMD/Darkflow-object-detection/blob/master/Custom%20Autom
 
 If you like  Details on this project, might be useful or may be help to clear your doubts and issues , please click on star.
 
+https://github.com/thtrieu/darkflow
+
 ##### This Video is Demo of the Object-Detection.
 
 https://www.youtube.com/watch?v=-2CkuAU6pRM
