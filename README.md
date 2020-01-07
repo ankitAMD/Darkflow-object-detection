@@ -10,7 +10,7 @@ I have also train on tiny-yolo.cfg and tiny-yolo.weights file on detecting good/
 
 https://github.com/ankitAMD/Darkflow-object-detection/blob/master/Custom%20Automated%20Testing%20images%20of%20Solar_Panel%20(using%20tiny-yolo.cfg%20and%20weights).ipynb
 
-If you like this details of this project, please click on star.
+If you like  Details on this project or might be useful for better understanding, please click on star.
 
 ##### This Video is Demo of the Object-Detection.
 
