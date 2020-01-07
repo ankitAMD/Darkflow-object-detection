@@ -5,7 +5,9 @@ See my Demo video probably it is not Accurate detection because of not GPU and i
 
 I train my model on 1and 4 classes differently and uses 25 Images of dataset through which i do not get very good performance but i got result to show my demo to Public. I done and implement this project myself without anyhelp except solving some issues from Google, Stackoverflow, Medium.  
 
-Edited: I have also train on tiny-yolo.cfg and tiny-yolo.weights file on detecting good/bad Solar_panel.But Performance is not Good and threshold is very bad.But it give some results.
+#### Edited: 
+I have also train on tiny-yolo.cfg and tiny-yolo.weights file on detecting good/bad Solar_panel.But Performance is not Good and threshold is very bad.But it give some results.
+https://github.com/ankitAMD/Darkflow-object-detection/blob/master/Custom%20Automated%20Testing%20images%20of%20Solar_Panel%20(using%20tiny-yolo.cfg%20and%20weights).ipynb
 
 If you like this details of this project, please click on star.
 
