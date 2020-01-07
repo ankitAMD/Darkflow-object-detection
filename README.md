@@ -14,6 +14,8 @@ If you like  Details on this project, might be useful or may be help to clear yo
 
 https://github.com/thtrieu/darkflow
 
+https://github.com/ankitAMD/Read-Multiple-images-from-a-folder-using-python-cv2
+
 ##### This Video is Demo of the Object-Detection.
 
 https://www.youtube.com/watch?v=-2CkuAU6pRM
