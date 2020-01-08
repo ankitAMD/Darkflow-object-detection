@@ -63,6 +63,10 @@ I found ffmpeg could do the task. To install the ffmpeg sudo apt-get install ffm
    https://www.geeksforgeeks.org/python-opencv-cv2-puttext-method/
    
    https://www.javatpoint.com/opencv-drawing-functions
+   
+   https://docs.opencv.org/2.4/modules/core/doc/drawing_functions.html
+   
+   https://vovkos.github.io/doxyrest-showcase/opencv/sphinxdoc/enum_cv_HersheyFonts.html
 
 
 # what is YOLO v2 (aka YOLO 9000)
