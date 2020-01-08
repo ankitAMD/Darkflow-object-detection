@@ -22,6 +22,10 @@ https://www.youtube.com/watch?v=-2CkuAU6pRM
 
 https://www.youtube.com/watch?v=pY_ofBTTuBE
 
+##### Inner concept,Short and Better Explanation of Project
+
+https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/
+
 
 ### Basic Reading and Required  links :
 
