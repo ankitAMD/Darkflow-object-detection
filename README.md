@@ -58,7 +58,11 @@ I found ffmpeg could do the task. To install the ffmpeg sudo apt-get install ffm
 
              http://www.youtube-video-downloader.xyz/
 
-
+   ##### Changes in Size,Length,Style, Color of Bounding-box and Text
+   
+   https://www.geeksforgeeks.org/python-opencv-cv2-puttext-method/
+   
+   https://www.javatpoint.com/opencv-drawing-functions
 
 
 # what is YOLO v2 (aka YOLO 9000)
