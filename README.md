@@ -105,6 +105,8 @@ YOLO9000 is a high speed, real time detection algorithm that can detect on OVER 
               in this environment python version is 3.6, check it.
  
               tensorflow version 1.14.0 (pip install tensorflow==1.14)
+              pip uninstall tensorflow
+              pip install tensorflow==1.4.0
               
               cython version (conda install cython==0.26)
               
